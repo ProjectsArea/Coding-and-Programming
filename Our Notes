@@ -1,0 +1,32 @@
+1.About Python, Installations-
+https://colab.research.google.com/drive/1ORNxnUUBI2GYY5hfIaNivm8IB_15ZOHH<br>
+2.Bubble Sort, Insertion Sort, Time Complexity-https://colab.research.google.com/drive/16GPNbDAucO4VmiKaS0xeopL8KXudmas6<br>
+3.Classes and Objects, Constructors, Attributes-https://colab.research.google.com/drive/1E5Lrtno-24n7Qq8GcX1XxZKJj67M1MTZ<br>
+4.Descriptive Stats: Mean, Median, Std, Variance-https://colab.research.google.com/drive/18RPTnInFub9Basq1VD7Wx5KR5ZFVrYDO<br>
+5.Dictionaries & Sets: Syntax, Methods, Operations-https://colab.research.google.com/drive/1VeExneUAp4iig80SKVNvP_Z9mB-d1nmk<br>
+6.Dictionary as Hash Map, Sets, Use Cases-https://colab.research.google.com/drive/1OYwm5T4tLdfIk94BnEkyWPrlf79WBB4U<br>
+7.File Handling (read/write CSV, TXT), Context Manager-https://colab.research.google.com/drive/13_6DKzR26Tw9nnCCMp7QSJRcJd7d0vNX<br>
+8.Functions-https://colab.research.google.com/drive/12JKMPcLDhQIL6QAbZGwBjQffa3qKE-yY<br>
+9.Functions: def, return, Parameters, *args/**kwargs-https://colab.research.google.com/drive/11ew9iLn2Or25UFP7rNO8T_pnuWy6mpOP<br>
+10.If elif else-https://colab.research.google.com/drive/1QuE1V6Zkovl1qgONpaW2ZUm-RW3YRBWW<br>
+11.Instance Methods, Class Variables, Inheritance-https://colab.research.google.com/drive/1S6Td-1sNq0GLp0e0P_JsLVpGkq2nxh0X<br>
+12.List/Dict Comprehensions, Set Comprehension-https://colab.research.google.com/drive/1MU1VJENkQLGZ22K7ych-BUxgg-1LFso2<br>
+13.Lists & Tuples: Creation, Slicing, Nesting, Methods-https://colab.research.google.com/drive/1G_DsM8tQIw0qDNxRdtLjqsAdnejFH7V4<br>
+14.Lists & Tuples: Creation, Slicing, Nesting, Methods-https://colab.research.google.com/drive/1n7a0O-wslW9wRcCm4IypZbyxDD62QI6B<br>
+15.Loops-https://colab.research.google.com/drive/19uyg_zpR1CNrOjAVZDFwYwzM23KSV-os<br>
+16.matchcase, break, continue-https://colab.research.google.com/drive/1gBWvHFxyiOoFrl1xq0ibG_gWdeVJGeJC<br>
+17.Merge Sort, Quick Sort, Comparison, Recap-https://colab.research.google.com/drive/1d5JfA08cdxDADdT9V6FWHzOIiHjFQPMT<br>
+18.NumPy Basics: Arrays, Operations, Indexing-https://colab.research.google.com/drive/1OnsxTuScm18JF8WMc1ey5Yhg_P90k0it<br>
+19.Operators and User Input-https://colab.research.google.com/drive/1aCvo899SEAt8XXn-3oh1cIE89tcBWeNM<br>
+20.Pandas Basics: DataFrame, Series, Filtering-https://colab.research.google.com/drive/1QwgQu3VKqmbMJGzoylHmIaCTTns14uRP<br>
+21.Practice: Build a Calculator / Contact Book using Functions-https://colab.research.google.com/drive/1W6t-AlL2UuefNWAPI6N8BjW_ncShnLfj<br>
+22.Practice: FizzBuzz, Prime Check, Palindrome, Factorial-https://colab.research.google.com/drive/1j4wpxK2-TRmTD4ICDyJ1gZIGq7qE9pMs<br>
+23.Problem Solving: Recursion, Backtracking (Fibonacci, Maze)-https://colab.research.google.com/drive/1sd-TA_1VDhJflT4Hqsglvpqk_-bxppJr<br>
+24.Scope, global/nonlocal, Lambda, Closures-https://colab.research.google.com/drive/1TuKT6BMYt-GFdyUD0M0rA70X8RZCF0z8<br>
+25.Searching: Linear, Binary Search, Use Cases-https://colab.research.google.com/drive/1G2tszh5mXBl22Hkqk3aHaYj7q_icnNZW<br>
+26.Special Methods: __str__, __repr__, __len__, Encapsulation-https://colab.research.google.com/drive/15bjoQsXYQBERhLM1-3qmMPf-DcA9KJRJ<br>
+27.Stack, Queue (deque), Linked List with examples-https://colab.research.google.com/drive/16RbP2EnSOfeTDxGzdt7T53BSnK1KC58X<br>
+28.Strings: Indexing, Slicing, String Methods-https://colab.research.google.com/drive/1tnJc1Xoi7zP7VwmfqsTLKwtXuQ7tGbEg<br>
+29.Strings: Indexing, Slicing, String Methods-https://colab.research.google.com/drive/1tnJc1Xoi7zP7VwmfqsTLKwtXuQ7tGbEg<br>
+30.Variables ,Data Types, Type Conversions-https://colab.research.google.com/drive/1ztPXqYiEqHVlDtr85hhUsX8p8i2QNlaz<br>
+31.Visualization with Matplotlib & Seaborn-https://colab.research.google.com/drive/1iSSmQr2KAmVhfVMmeAuGnjGegXci-vmI
